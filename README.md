@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Dwivedi</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **Ecommerce Store for Cycles**
+- 🔭 I’m currently working on **Web3 Project**
 
-- 🌱 I’m currently learning **Backend Development and Microservices**
+- 🌱 I’m currently learning **Web3 Development and Frontend**
 
-- 👯 I’m looking to collaborate on **React based projects**
+- 👯 I’m looking to collaborate on **React && Web3 based projects**
 
 - 💬 Ask me about **React, Java and DSA**
 
