@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web3 Project<br>👯 I’m looking to collaborate on React, DSA(Java) and Web3.<br>🤝 I’m looking for help with Frontend Development.<br>🌱 I’m currently learning React, Blockchain, Solidity and much more.<br>💬 Ask me about DSA and Frontend.<br>⚡ Fun fact "I feel errors are my coffee, they just keep me awake and active"
+🔭 I’m currently working on <b>Web3 Project</b><br>👯 I’m looking to collaborate on <b>React, DSA(Java) and Web3.</b><br>🤝 I’m looking for help with <b>Frontend Development.</b><br>🌱 I’m currently learning <b>React, Blockchain, Solidity and much more.</b><br>💬 Ask me about <b>DSA and Frontend.</b><br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
 
 
 # 🤝🏽 Connect With Me:
