@@ -2,7 +2,7 @@
 🔭 I’m currently working on Web3 Project<br>👯 I’m looking to collaborate on React, DSA(Java) and Web3.<br>🤝 I’m looking for help with Frontend Development.<br>🌱 I’m currently learning React, Blockchain, Solidity and much more.<br>💬 Ask me about DSA and Frontend.<br>⚡ Fun fact "I feel errors are my coffee, they just keep me awake and active"
 
 
-<h3 align="left">Connect with me:</h3>
+# 🤝🏽 Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/ayush-dwivedi-b8351b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-dwivedi-b8351b221/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amayush_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amayush_18" height="30" width="40" /></a>
@@ -25,13 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=AmAyush18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-dwivedi-b8351b221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-dwivedi-b8351b221/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amayush_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amayush_18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amayush0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amayush0818" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amayush_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amayush_18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amayush0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amayush0818" height="30" width="40" /></a>
-</p>
-
