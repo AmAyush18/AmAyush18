@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <b>Web3 Project</b><br>👯 I’m looking to collaborate on <b>React, DSA(Java) and Web3.</b><br>🤝 I’m looking for help with <b>Frontend Development.</b><br>🌱 I’m currently learning <b>React, Blockchain, Solidity and much more.</b><br>💬 Ask me about <b>DSA and Frontend.</b><br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
+🔭 I’m currently working on <b>Fullstack Projects.</b><br>👯 I’m looking to collaborate on <b>MERN, Smart Contracts and Bugs.</b><br>🤝 I’m looking for amazing <b>Fulstack Projects.</b><br>🌱 I’m currently learning <b>MERN(in-depth), Solidity and much more.</b><br>💬 Let's chat about <b>MERN and Product ideas.</b><br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
 
 
 # 🤝🏽 Connect With Me:
