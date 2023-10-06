@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <b>Fullstack Projects.</b><br>👯 I’m looking to collaborate on <b>MERN, Smart Contracts and Bugs.</b><br>🤝 I’m looking for amazing <b>Fulstack Projects.</b><br>🌱 I’m currently learning <b>MERN(in-depth), Solidity and much more.</b><br>💬 Let's chat about <b>MERN and Product ideas.</b><br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
+🔭 I’m currently working on <b>Fullstack Projects.</b><br>👯 I’m looking to collaborate on <b>MERN, Smart Contracts and Bugs.</b><br>🤝 I’m looking for amazing <b>Fullstack Projects.</b><br>🌱 I’m currently exploring <b>MERN(in-depth), Web3 and much more.</b><br>💬 Let's chat about <b>MERN and Product ideas.</b><br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
 
 
 # 🤝🏽 Connect With Me:
