@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <b>Literature Society.</b><br>👯 I’m looking to collaborate on <b>Fullstack NextJS/MERN Projects.</b><br>🤝 I’m looking for amazing <b>Early Stage Products.</b><br>🌱 I’m currently exploring <b>MERN(in-depth), Web3 and much more.</b><br>💬 Let's chat about <b>MERN and Product ideas.</b><br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
+🔭 I’m currently working on <b>CoCanvas.</b><br>👯 I’m looking to collaborate on <b>Fullstack NextJS/MERN Projects.</b><br>🤝 I’m looking for amazing <b>Early Stage Products.</b><br>🌱 I’m currently exploring <b>MERN(in-depth), Web3 and much more.</b><br>💬 Let's chat about <b>MERN and Product ideas.</b><br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
 
 
 ## 🌐 Socials:
