@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <b>Bookwor</b>.<br>👯 I’m looking to collaborate on <b>innovative product ideas</b>.<br>🤝 I’m looking for <b>amazing Startups</b>.<br>🌱 I’m currently exploring <b>Backend Development using Golang</b>.<br>💬 Let's chat about <b>Product ideas of future</b>.<br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
+🔭 I’m currently working on <b>Bookworm</b>.<br>👯 I’m looking to collaborate on <b>innovative product ideas</b>.<br>🤝 I’m looking for <b>amazing Startups</b>.<br>🌱 I’m currently exploring <b>Backend Development using Golang</b>.<br>💬 Let's chat about <b>Product ideas of future</b>.<br>⚡ Fun fact <b>"I feel errors are my coffee, they just keep me awake and active"</b>
 
 
 ## 🌐 Socials:
