@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 **Exploring the depths of Backend Development**  
-🛠 **Currently building ![BinaryBoard](https://github.com/AmAyush18/binaryboard)** 
+🛠 Currently building **BinaryBoard**
 🤝 Open to collaborating on **innovative product ideas** and **exciting startups**  
 🌱 Diving into **Golang, Node.js, PostgreSQL, Redis, Kafka, and more**  
 💡 Passionate about **building scalable systems and brainstorming the future of tech**  
