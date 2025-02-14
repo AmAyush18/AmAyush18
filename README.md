@@ -1,9 +1,11 @@
 # 💫 About Me:
-🚀 <b>Exploring the depths of Backend Development</b>  
-🤝 Open to collaborating on <b>innovative product ideas</b> and <b>exciting startups</b>  
-🌱 Diving into <b>Golang, Node.js, PostgreSQL, Redis, Kafka, and more</b>  
-💡 Passionate about <b>building scalable systems and brainstorming the future of tech</b>  
-⚡ <b>Fun fact:</b> *"Errors are my coffee—they keep me awake and sharp!"*
+🚀 **Exploring the depths of Backend Development**  
+🛠 ** Currently building [BinaryBoard](https://github.com/AmAyush18/binaryboard)** 
+🤝 Open to collaborating on **innovative product ideas** and **exciting startups**  
+🌱 Diving into **Golang, Node.js, PostgreSQL, Redis, Kafka, and more**  
+💡 Passionate about **building scalable systems and brainstorming the future of tech**  
+⚡ **Fun fact:** *"Errors are my coffee—they keep me awake and sharp!"*
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amayush18) 
