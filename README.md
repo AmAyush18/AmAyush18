@@ -1,8 +1,8 @@
 # 💫 About Me:
-🚀 **Exploring the depths of Backend Development**  
-🛠 Currently building **BinaryBoard** <br />
+🚀 **Exploring the depths of Backend Development and GenAI**  
+🛠 Currently building **Vehiclr** <br />
 🤝 Open to collaborating on **innovative product ideas** and **exciting startups**  
-🌱 Diving into **Golang, Node.js, PostgreSQL, Redis, Kafka, and more**  
+🌱 Diving into **Typescript, Node.js, PostgreSQL, Docker, Kafka, and more**  
 💡 Passionate about **building scalable systems and brainstorming the future of tech**  
 ⚡ **Fun fact:** *"Errors are my coffee—they keep me awake and sharp!"*
 
