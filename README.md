@@ -1,11 +1,11 @@
 # 💫 About Me:
-🚀 **Exploring the depths of Backend Development and GenAI**  
+🎨 **Frontend Engineer crafting reliable, scalable, and beautiful web apps**  
 🛠 Currently building **[Quitzy](https://quitzy.vercel.app)**  
-🤝 Open to collaborating on **innovative product ideas** and **exciting startups**  
-🌱 Diving into **Typescript, Node.js, PostgreSQL, Docker, Kafka, and more**  
-💡 Passionate about **building scalable systems and brainstorming the future of tech**  
-⚡ **Fun fact:** *"Errors are my coffee—they keep me awake and sharp!"*
-
+🤝 Excited to collaborate on **products that blend great UI/UX with solid engineering**  
+🌱 Leveling up with **TypeScript, React, Next.js, Node.js, and PostgreSQL**  
+🧠 Exploring **GenAI** and how it can supercharge the frontend experience  
+💡 Passionate about **design systems, performance optimization, and system thinking**  
+⚡ **Fun fact:** *"Frontend bugs break my heart, but fixing them makes me a hero!"*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amayush18) 
