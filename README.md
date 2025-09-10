@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 **Exploring the depths of Backend Development and GenAI**  
-🛠 Currently building **Quitzy** <br />
+🛠 Currently building **[Quitzy](https://quitzy.vercel.app)**  
 🤝 Open to collaborating on **innovative product ideas** and **exciting startups**  
 🌱 Diving into **Typescript, Node.js, PostgreSQL, Docker, Kafka, and more**  
 💡 Passionate about **building scalable systems and brainstorming the future of tech**  
