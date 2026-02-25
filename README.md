@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎨 **Frontend Engineer crafting reliable, scalable, and beautiful web apps**  
-🛠 Currently building **[Quitzy](https://quitzy.vercel.app)**  
+🛠 Currently building **Resolve**  
 🤝 Excited to collaborate on **products that blend great UI/UX with solid engineering**  
 🌱 Leveling up with **TypeScript, React, Next.js, Node.js, and PostgreSQL**  
 🧠 Exploring **GenAI** and how it can supercharge the frontend experience  
