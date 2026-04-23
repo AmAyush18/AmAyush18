@@ -1,11 +1,12 @@
 # 💫 About Me:
-🎨 **Frontend Engineer crafting reliable, scalable, and beautiful web apps**  
-🛠 Currently building **Resolve**  
-🤝 Excited to collaborate on **products that blend great UI/UX with solid engineering**  
-🌱 Leveling up with **TypeScript, React, Next.js, Node.js, and PostgreSQL**  
-🧠 Exploring **GenAI** and how it can supercharge the frontend experience  
-💡 Passionate about **design systems, performance optimization, and system thinking**  
-⚡ **Fun fact:** *"Frontend bugs break my heart, but fixing them makes me a hero!"*
+🎨 **Frontend / Product Engineer focused on building scalable, high-quality web experiences**  
+🛠 Currently building in **stealth mode** — an AI-native product focused on helping modern brands create better digital experiences  
+🤝 Excited to collaborate on **ambitious teams building products where design, performance, and engineering all matter**  
+🌱 Continuously sharpening skills across **TypeScript, React, Next.js, Node.js, PostgreSQL, and modern frontend architecture**  
+🧠 Exploring **GenAI, AI Agents, and AI-native product workflows** to create smarter user experiences  
+💡 Passionate about **design systems, performance optimization, developer experience, and system thinking**  
+⚡ Strong believer that **great frontend is not just UI — it is speed, clarity, trust, and product impact**  
+🚀 Always looking to grow through **ownership, fast learning environments, and meaningful product challenges**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amayush18) 
